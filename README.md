@@ -11,6 +11,6 @@ This repository contains configuration files and scripts used to evaluate WRF ph
 This repository corresponds to the experiments described in the GMD manuscript.
 
 ## Code archive
-A permanent version of this code is archived on Zenodo:
-[DOI will be added here]
 
+This code is archived on Zenodo:
+https://doi.org/10.5281/zenodo.19426912
