@@ -7,8 +7,6 @@ This repository contains configuration files and scripts used to evaluate WRF ph
 - schemeX-1/: configuration for each physics scheme
 - scheme2.sh: run scripts
 
-## Reproducibility
-This repository corresponds to the experiments described in the GMD manuscript.
 
 ## Code archive
 
